@@ -1,0 +1,15 @@
+.grow-followers {
+  background-color: var(--primary-color);
+  color: var(--white);
+}
+
+.grow-followers h3 {
+  font-size: 3rem;
+  padding: 0 4rem;
+  line-height: 0.8;
+}
+
+.grow-followers img {
+  max-width: 80%;
+  margin-bottom: 3rem;
+}

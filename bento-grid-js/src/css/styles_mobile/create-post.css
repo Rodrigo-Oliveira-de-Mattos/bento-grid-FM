@@ -1,0 +1,16 @@
+.create-post {
+  background-color: var(--secondary-color-2);
+}
+
+.create-post h3 {
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+.create-post h3 i {
+  color: var(--primary-color);
+}
+
+.create-post img {
+  max-width: 65%;
+}

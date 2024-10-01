@@ -1,0 +1,14 @@
+.write-ai {
+  background-color: var(--secondary-color);
+}
+
+.write-ai h3 {
+  font-size: 3rem;
+  margin-right: 2rem;
+  margin-bottom: 2rem;
+}
+
+.write-ai img {
+  max-width: 80%;
+}
+

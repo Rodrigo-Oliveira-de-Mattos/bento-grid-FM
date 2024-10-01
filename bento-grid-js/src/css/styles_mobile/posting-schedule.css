@@ -1,0 +1,12 @@
+.posting-schedule {
+  background-color: var(--secondary-color);
+}
+
+.posting-schedule h3 {
+  font-size: 2.2rem;
+}
+
+.posting-schedule img {
+  max-width: 70%;
+  translate: 0 calc(2rem + 3px);
+}

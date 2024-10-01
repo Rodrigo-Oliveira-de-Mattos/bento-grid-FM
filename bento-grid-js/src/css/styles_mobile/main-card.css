@@ -1,0 +1,23 @@
+.main-card {
+  color: var(--white);
+  background-color: var(--primary-color);
+}
+
+.main-card h1 {
+  font-size: 4.5rem;
+  line-height: 1;
+  margin: 1.5rem 2rem;
+}
+
+.main-card h1 span {
+  color: var(--secondary-color);
+}
+
+.main-card p {
+  font-size: 1.8rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.main-card img {
+  max-width: 65%;
+}

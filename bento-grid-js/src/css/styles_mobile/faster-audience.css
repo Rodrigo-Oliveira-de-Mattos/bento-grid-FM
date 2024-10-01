@@ -1,0 +1,17 @@
+.faster-audience {
+  background-color: var(--white);
+}
+
+.faster-audience h3 {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.faster-audience p {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+}
+
+.faster-audience img {
+  max-width: 60%;
+}
