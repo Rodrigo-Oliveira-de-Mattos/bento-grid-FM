@@ -1,5 +1,3 @@
-import "../css/styles_mobile/main-card.css"
-
 export default function MainCard() {
     return (
         <div className="main-card text-center">

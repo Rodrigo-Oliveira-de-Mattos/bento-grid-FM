@@ -1,5 +1,3 @@
-import '../css/styles_mobile/create-post.css'
-
 export default function CreatePost() {
     return (
         <div className="create-post more-padding">

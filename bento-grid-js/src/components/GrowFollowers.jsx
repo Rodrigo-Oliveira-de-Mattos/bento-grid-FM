@@ -1,5 +1,3 @@
-import '../css/styles_mobile/grow-followers.css'
-
 export default function GrowFollowers() {
     return (
         <div className="grow-followers text-center">

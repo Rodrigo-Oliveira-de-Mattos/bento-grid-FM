@@ -1,5 +1,3 @@
-import '../css/styles_mobile/write-ai.css'
-
 export default function WriteAI() {
     return (
         <div className="write-ai more-padding">

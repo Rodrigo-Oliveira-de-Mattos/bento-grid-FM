@@ -1,0 +1,17 @@
+@media screen and (width >= 768px) {
+  .posting-schedule {
+    grid-row-start: 5;
+    grid-row-end: 8;
+    grid-column-start: 3;
+  }
+  
+  .posting-schedule h3 {
+    font-size: 3rem;
+  }
+  
+  .posting-schedule img {
+    max-width: 100%;
+    translate: 0 1rem;
+    clip-path: inset(0 0 calc(40% + 4px) 0);
+  }
+}

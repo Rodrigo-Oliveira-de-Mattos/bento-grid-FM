@@ -1,0 +1,22 @@
+@media screen and (width >= 768px) {
+  .write-ai {
+    grid-row-start: 6;
+    grid-row-end: 11;
+    grid-column-start: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .write-ai h3 {
+    font-size: 3.6rem;
+  }
+  
+  .write-ai img {
+    max-width: 100%;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  
+}

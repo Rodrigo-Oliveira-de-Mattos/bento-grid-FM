@@ -1,5 +1,3 @@
-import "../css/styles_mobile/multiple-account.css"
-
 export default function MultipleAccount() {
     return (
         <div className="multiple-account">

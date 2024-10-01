@@ -1,5 +1,3 @@
-import '../css/styles_mobile/faster-audience.css'
-
 export default function FasterAudience() {
     return (
         <div className="faster-audience more-padding">

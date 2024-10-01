@@ -1,5 +1,3 @@
-import '../css/styles_mobile/social-media.css'
-
 export default function SocialMedia () {
     return (
         <div className="social-media text-center">

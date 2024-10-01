@@ -1,5 +1,3 @@
-import '../css/styles_mobile/posting-schedule.css';
-
 export default function PostingSchedule() {
     return (
         <div className="posting-schedule">

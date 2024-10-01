@@ -1,0 +1,18 @@
+@media screen and (width >= 768px) {
+  .create-post {
+    grid-row-start: 1;
+    grid-row-end: 6;
+    grid-column-start: 1;
+  }
+
+  .create-post h3 {
+    font-size: 4rem;
+    margin: 5rem 0 3rem;
+  }
+  
+  .create-post img {
+    max-width: 100%;
+    padding: 0 1rem;
+  }
+  
+}
